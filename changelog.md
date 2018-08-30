@@ -1,5 +1,10 @@
 # CloudRail SI Node.JS SDK changelog
 
+* **2.21.12**
+  * OneDriveBusiness: Fix Authentication process
+  * GoogleDrive: Fix fileExists method
+  * Backblaze: Fix an issue related to advanced request
+
 * **2.21.11**
   * OneDriveBusiness: Fix missing url encoding of the client secret on refreshing tokens
   * GoogleCloudPlatform: Add a missing internal function

@@ -290,7 +290,7 @@ var SERVICE_CODE = {
         ["if!=than", "$P2.appendAuthorization", 0, 2],
         ["callFunc", "checkAuthentication", "$P0"],
         ["set", "$L0.requestHeaders.Authorization", "$S0.authorizationToken"],
-        ["if!=than", "P2.body", null, 6],
+        ["if!=than", "$P2.body", null, 6],
         ["if==than", "$L0.requestHeaders.Content-Length", null, 5],
         ["jumpRel", 1],
         ["if==than", "$L0.requestHeaders.content-length", null, 3],
