@@ -12,7 +12,7 @@ The program will then redirect the user to a browser where they have to login. A
 
 ## Prerequisites
 
-You need to have node.js installed ([get it from here](http://nodejs.org/)) and need to have developer credentials for the services you want to use. Instructions on how they can be acquired can be found on our [Unified Social Profile API site](https://cloudrail.com/integrations/interfaces/Profile;platformId=Nodejs;serviceIds=Facebook%2CGitHub%2CGooglePlus%2CHeroku%2CInstagram%2CLinkedIn%2CProductHunt%2CSlack%2CTwitter%2CMicrosoftLive%2CYahoo). You also need a CloudRail API key that you can [get fro free here](https://cloudrail.com/signup).
+You need to have node.js installed ([get it from here](http://nodejs.org/)) and need to have developer credentials for the services you want to use. Instructions on how they can be acquired can be found on our [Unified Social Profile API site](https://cloudrail.com/integrations/interfaces/Profile;platformId=Nodejs;serviceIds=Facebook%2CGitHub%2CGooglePlus%2CHeroku%2CInstagram%2CLinkedIn%2CProductHunt%2CSlack%2CTwitter%2CMicrosoftLive%2CYahoo). You also need a CloudRail API key that you can [get here](https://cloudrail.com/signup).
 
 Install the cloudrail-si node.js SDK by navigating to the project folder in a terminal and executing the command
 

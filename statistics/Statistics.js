@@ -11,7 +11,7 @@ var Statistics = (function () {
     Statistics.addCall = function (service, method) {
         var keyMatch = /^[a-f\d]{24}$/i;
         if (!keyMatch.test(Settings_1.Settings.licenseKey))
-            throw new Error("A valid CloudRail license key is required. You can get one for free at https://developers.cloudrail.com");
+            throw new Error("A valid CloudRail license key is required. You can get one at https://developers.cloudrail.com");
         Statistics.callSyncPromise = Statistics.callSyncPromise.then(function () {
             function schedule() {
                 Statistics.timer = setTimeout(function () {

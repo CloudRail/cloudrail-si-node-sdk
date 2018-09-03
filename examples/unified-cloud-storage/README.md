@@ -4,7 +4,7 @@ This is an example that shows how you can use the [CloudRail Unified Cloud Stora
 
 ## Prerequisites
 
-You need to have node.js installed ([get it from here](http://nodejs.org/)) and need to have developer credentials for the services you want to use. Instructions on how they can be acquired can be found on our [Unified Cloud Storage API site](https://cloudrail.com/integrations/interfaces/CloudStorage;platformId=Nodejs;serviceIds=Box%2CDropbox%2CEgnyte%2CGoogleDrive%2COneDrive%2COneDriveBusiness). You also need a CloudRail API key that you can [get fro free here](https://cloudrail.com/signup).
+You need to have node.js installed ([get it from here](http://nodejs.org/)) and need to have developer credentials for the services you want to use. Instructions on how they can be acquired can be found on our [Unified Cloud Storage API site](https://cloudrail.com/integrations/interfaces/CloudStorage;platformId=Nodejs;serviceIds=Box%2CDropbox%2CEgnyte%2CGoogleDrive%2COneDrive%2COneDriveBusiness). You also need a CloudRail API key that you can [get here](https://cloudrail.com/signup).
 
 Install the cloudrail-si node.js SDK by navigating to the project folder in a terminal and executing the command
 

@@ -435,7 +435,7 @@ Check out https://github.com/CloudRail/cloudrail-si-node-sdk/tree/master/example
 
 CloudRail provides a developer portal which offers usage insights for the SDKs and allows you to generate license keys.
 
-It's free to sign up and generate a key.
+It's easy to sign up and generate a key.
 
 Head over to https://developers.cloudrail.com
 
