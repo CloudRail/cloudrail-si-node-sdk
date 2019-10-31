@@ -5,7 +5,7 @@
     "cloudrail-si": "2.x",
     "cookie-parser": "^1.4.3",
     "express": "^4.14.0",
-    "mongoose": "^4.5.1"
+    "mongoose": "^5.7.7"
   },
   "private": true
 }
